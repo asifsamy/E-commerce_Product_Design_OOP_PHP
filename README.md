@@ -6,9 +6,9 @@ Custom Shop an E-commerce Engine with Product Design Feature which will provide 
 
 ![capture1_1](https://user-images.githubusercontent.com/19818734/40543525-a33121ec-6046-11e8-8c80-06c100bfedd7.PNG)
 
-[Live Preview](http://samprojects.tk/FP/)
+// [Live Preview](http://samprojects.tk/FP/)
 
-[Admin Panel (Admin id:"admin" and Admin Password:"12345")](http://samprojects.tk/FP/admin/login.php)
+// [Admin Panel (Admin id:"admin" and Admin Password:"12345")](http://samprojects.tk/FP/admin/login.php)
 
 
 ## User Role(Not Registered)
